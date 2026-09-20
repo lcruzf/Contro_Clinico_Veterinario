@@ -1,0 +1,20 @@
+#BlueJ class context
+#Sat Sep 19 22:12:06 CST 2026
+comment0.target=Paciente
+comment1.params=id nombre edad raza especie tutor
+comment1.target=Paciente(int, java.lang.String, int, java.lang.String, java.lang.String, Tutor)
+comment10.params=especie
+comment10.target=void setEspecie(java.lang.String)
+comment11.target=Tutor getTutor()
+comment2.target=int getId()
+comment3.target=java.lang.String getNombre()
+comment4.params=nombre
+comment4.target=void setNombre(java.lang.String)
+comment5.target=int getEdad()
+comment6.params=edad
+comment6.target=void setEdad(int)
+comment7.target=java.lang.String getRaza()
+comment8.params=raza
+comment8.target=void setRaza(java.lang.String)
+comment9.target=java.lang.String getEspecie()
+numComments=12

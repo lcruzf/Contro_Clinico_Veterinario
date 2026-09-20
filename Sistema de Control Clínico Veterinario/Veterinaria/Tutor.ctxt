@@ -1,0 +1,22 @@
+#BlueJ class context
+#Sat Sep 19 22:12:06 CST 2026
+comment0.target=Tutor
+comment1.params=id nombre telefono direccion correo
+comment1.target=Tutor(int, java.lang.String, java.lang.String, java.lang.String, java.lang.String)
+comment10.params=direccion
+comment10.target=void setDireccion(java.lang.String)
+comment11.target=java.lang.String getCorreo()
+comment12.params=correo
+comment12.target=void setCorreo(java.lang.String)
+comment2.params=paciente
+comment2.target=void agregarPaciente(Paciente)
+comment3.target=java.util.ArrayList getPacientes()
+comment4.target=int getId()
+comment5.target=java.lang.String getNombre()
+comment6.params=nombre
+comment6.target=void setNombre(java.lang.String)
+comment7.target=java.lang.String getTelefono()
+comment8.params=telefono
+comment8.target=void setTelefono(java.lang.String)
+comment9.target=java.lang.String getDireccion()
+numComments=13
